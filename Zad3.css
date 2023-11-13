@@ -25,15 +25,26 @@ body {
 img {
     width: 270px;
     height: 235px;
-    margin: 40px 10px 0px 10px;
+    margin: 0px 0px 0px 0px;
 }
 
 .one_article {
-    width: 250px;
+    width: 230px;
     margin: 40px 10px 0px 10px;
     padding: 10px;
     background-color: white;
 }
+
 .first {
-    padding-left: 10px
+    padding-left: 17px
+}
+
+.one_section {
+    align-items: flex-start;
+    background-color: white;
+    height: 100%;
+    margin-left: 20px;
+    width: 270px;
+    margin-bottom: 20%;
+    margin-top: 7%;
 }
